@@ -1,0 +1,14 @@
+{
+  "name": "web",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@apollo/client": "^3.6.9",
+    "create-react-app": "^5.0.1",
+    "graphql": "^16.6.0"
+  }
+}
